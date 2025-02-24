@@ -4,9 +4,10 @@ I am a junior data analyst with extensive experience in marketing. I`m CRM and D
 Currently deepening expertise in data-driven marketing and analytics to transition into digital analytics or product analytics. Interested in user behavior analysis, funnel optimization, and data-driven product strategy. 🚀
 I plan to add my first pet projects here soon.
 
-🎓 Education
+🎓 Education: 
 Currently enrolled in the "Data Analyst" course at Karpov.Courses.
 Studying Python, SQL, and data analysis fundamentals.
+
 I have a higher education degree in finance.
 
 _____________________________________________________________________________________
@@ -17,7 +18,7 @@ ________________________________________________________________________________
 В настоящее время углубляю знания в data-driven маркетинге и аналитике, чтобы перейти в digital-аналитику или product-аналитику. Интересуюсь анализом пользовательского поведения, оптимизацией воронок и построением продуктовых стратегий на основе данных. 🚀
 📌 В ближайшее время планирую добавить сюда свои первые pet-проекты.
 
-🎓 Образование
-В настоящее время прохожу курс "Аналитик данных" на Karpov.Courses.
+🎓 Образование: В настоящее время прохожу курс "Аналитик данных" на Karpov.Courses.
 Изучаю Python, SQL и основы анализа данных.
+
 Имею высшее образование в сфере финансов. 
