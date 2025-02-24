@@ -2,13 +2,6 @@
 
 I am a junior data analyst with extensive experience in marketing. I`m CRM and Digital Marketing Specialist with experience in Tech Marketing, B2B SaaS, and EdTech. Focused on automation and optimization of marketing campaigns to improve conversion rates and engagement. Conduct CRM process audits, analyze data, and develop growth strategy hypotheses based on key metrics (OR, CR, LTV, CAC).
 Currently deepening expertise in data-driven marketing and analytics to transition into digital analytics or product analytics. Interested in user behavior analysis, funnel optimization, and data-driven product strategy. 🚀
-
-🚀 Skills
-📊 Excel – proficient.
-🐍 Python – basic knowledge, working with Pandas, Matplotlib, Seaborn. Currently learning.
-🗃️ SQL – working with databases, currently learning.
-📈 Tableau/Power BI – currently learning.
-
 I plan to add my first pet projects here soon.
 
 🎓 Education
@@ -22,13 +15,6 @@ ________________________________________________________________________________
 Я начинающий аналитик данных с большим опытом работы в маркетинге. Я специалист по CRM и Digital Marketing с опытом в Tech Marketing, B2B SaaS и EdTech. Занимаюсь автоматизацией и оптимизацией маркетинговых кампаний для повышения конверсии и вовлечённости. Провожу аудит CRM-процессов, анализ данных и разрабатываю гипотезы для роста на основе ключевых метрик (OR, CR, LTV, CAC).
 
 В настоящее время углубляю знания в data-driven маркетинге и аналитике, чтобы перейти в digital-аналитику или product-аналитику. Интересуюсь анализом пользовательского поведения, оптимизацией воронок и построением продуктовых стратегий на основе данных. 🚀
-
-🚀 Навыки
-📊 Excel – продвинутый уровень.
-🐍 Python – основы, работа с Pandas, Matplotlib, Seaborn. В процессе изучения.
-🗃️ SQL – работа с базами данных, в процессе изучения.
-📈 Tableau/Power BI – в процессе изучения.
-
 📌 В ближайшее время планирую добавить сюда свои первые pet-проекты.
 
 🎓 Образование
